@@ -1,7 +1,7 @@
 //微信广告方法 激励视频和广告条
 let width = 0;
-const REWARDED_ID = 'adunit-38c595d4b0a681d5'//激励视频ID
-const BANNER_ID = 'adunit-9b57a8421542313e'//广告条ID
+const REWARDED_ID = 'xxxxxx'//激励视频ID
+const BANNER_ID = 'xxxxxx'//广告条ID
 let AD = cc.Class({
     extends: cc.Component,
     properties: {
