@@ -33,7 +33,7 @@ let GameInfo = cc.Class({
         appid: ""
     }
 });
-const url = 'https://www.7cgames.cn/GameRes/7CGamesBoxWX/';
+const url = 'xxxxxxxx';
 
 cc.Class({
     extends: cc.Component,
