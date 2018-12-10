@@ -1,6 +1,6 @@
 let index = -1;
-const name = '疯狂枪手'  //当前游戏
-const appId = 'wx07f2024424040b2f' //当前appid
+const name = 'name'  //当前游戏
+const appId = 'xxxxxx' //当前appid
 cc.Class({
     extends: cc.Component,
     properties: {
